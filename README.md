@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkBePEEK&theme=tokyonight" width="48%" alt="AkBe GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight&hide_archive=false&langs_count=10" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
