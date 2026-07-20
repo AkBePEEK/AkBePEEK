@@ -51,15 +51,21 @@
 
 ---
 
-### 📈 GitHub Stats & Languages
+### 📈 GitHub Stats & Contribution Snake
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkBePEEK&theme=tokyonight" width="48%" alt="AkBe GitHub Streak" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight&hide_archive=false&langs_count=10" width="48%" alt="Top Languages" />
 </p>
 
+### 🐍 Contribution Graph Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkBePEEK&theme=tokyonight" width="98%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkBePEEK/AkBePEEK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkBePEEK/AkBePEEK/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/AkBePEEK/AkBePEEK/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
