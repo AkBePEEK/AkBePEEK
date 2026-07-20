@@ -64,5 +64,5 @@
 
 ### 📫 Connect with Me
 
-    - 💼 **LinkedIn**: [Berdiyar Akhbergen](https://www.linkedin.com/in/berdiyar-akhbergen-b5181b301/)
-    - 📧 **Email**: [aberdiyar05@gmail.com](mailto:aberdiyar05@gmail.com)
+- 💼 **LinkedIn**: [Berdiyar Akhbergen](https://www.linkedin.com/in/berdiyar-akhbergen-b5181b301/)
+- 📧 **Email**: [aberdiyar05@gmail.com](mailto:aberdiyar05@gmail.com)
