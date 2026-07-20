@@ -22,6 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### **Backend, Scripting & Testing**
@@ -50,11 +51,11 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkBePEEK&theme=tokyonight" width="48%" alt="AkBe GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkBePEEK&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight&langs_count=6" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
