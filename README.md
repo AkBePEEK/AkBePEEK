@@ -1,58 +1,65 @@
-# Hi there, I'm AkBe 👋
+ # Hi there, I'm AkBe 👋
 
-    ```html
     <p align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=435&lines=Software+Developer;
-  Flutter+%26+Mobile+Developer;Python+%26+QA+Automation+Eng;Machine+Learning+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=450&lines=Software+Developer;
+      Flutter+%26+Mobile+Developer;TypeScript+%26+Full-Stack;Python+%26+QA+Automation" alt="Typing SVG" />
     </p>
-    ──────
-  ### 🚀 About Me
 
-  • 📱 Mobile Development: Building sleek cross-platform mobile apps with Flutter & Dart.
-  • 🧪 Automation & QA: Automated API & E2E testing with Python, Pytest, Selenium, & Postman.
-  • 🧠 Machine Learning & Graphics: Exploring ML algorithms (Tumor Detection) and 3D graphics in C++.
-  • 🛠️ Currently refining my open-source projects and expanding test automation frameworks.
-  ──────
-  ### 🛠️ Languages & Tools
+    ---
 
-  #### Mobile & Web Development
+    ### 🚀 About Me
 
-  🖼 Image: Flutter → https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
-  🖼 Image: Dart → https://img.shields.io/badge/Dart-%230075BA.svg?style=for-the-badge&logo=dart&logoColor=white
-  🖼 Image: HTML5 → https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+    - 📱 **Mobile & Web**: Building modern cross-platform mobile apps with **Flutter & Dart** and web applications in **TypeScript**.
+    - 🧪 **Automation & QA**: End-to-end API & Web testing using **Python, Pytest, Selenium, & Postman**.
+    - 🧠 **Machine Learning & Systems**: Hands-on experience with ML classification models and 3D graphics in **C++**.
+    - 📦 **Logistics & Apps**: Active project maintainer (e.g., **TasLogistic** & **Flowercy**).
 
-  #### Backend, Scripting & ML
+    ---
 
-  🖼 Image: Python → https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-  🖼 Image: C++ → https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-  🖼 Image: Selenium → https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
-  🖼 Image: Pytest → https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white
+    ### 🛠️ Languages & Tools
 
-  #### Tools & Platforms
+    #### **Frontend & Mobile**
+    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-  🖼 Image: Git → https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-  🖼 Image: GitHub → https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-  🖼 Image: Postman → https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-  ──────
-  ### 🌟 Featured Projects
+    #### **Backend, Scripting & Testing**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+    ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-   Project                                    │ Description                                                  │ Tech Stack
-  ────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┼───────────────────────────────────────────
-   🌸 Flowercy[1]                             │ Flower delivery app with smooth UI and ordering flow.        │ Flutter Dart
-   🧠 Tumor Detection ML[2]                   │ Machine Learning model for brain tumor classification.       │ Python Scikit-Learn ML
-   🤖 OrangeHRM Pytest Automation[3]          │ Test automation suite using Pytest & Selenium for OrangeHRM. │ Python Pytest Selenium
-   💬 Messenger[4]                            │ Real-time chat messaging application interface.              │ Flutter Dart
-   🎨 Computer Graphics Project[5]            │ 3D rendering fundamentals & algorithms.                      │ C++ OpenGL
+    #### **Dev Tools**
+    ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  [1]: Flowercy https://github.com/AkBePEEK/Flowercy
-  [2]: Tumor Detection ML https://github.com/AkBePEEK/TumorDetectionMachineLearning
-  [3]: OrangeHRM Pytest Automation https://github.com/AkBePEEK/orange-hrm-pytest-automation
-  [4]: Messenger https://github.com/AkBePEEK/Messenger
-  [5]: Computer Graphics Project https://github.com/AkBePEEK/ComputerGraphicsFoundationProject
-  ──────
-  ### 📈 GitHub Stats
-  ──────
-  ### 📫 Connect with Me
+    ---
 
-  • 💼 LinkedIn: [Add Your LinkedIn Link Here]
-  • 📧 Email: [Add Your Preferred Email Here]
+    ### 🌟 Featured Projects
+
+    | Project | Description | Tech Stack |
+    | :--- | :--- | :--- |
+    | 🚚 [**TasLogistic**](https://github.com/AkBePEEK/TasLogistic) | Logistics management platform and application. | `TypeScript` `Web` |
+    | 🌸 [**Flowercy**](https://github.com/AkBePEEK/Flowercy) | Flower delivery mobile app with custom UI and ordering flow. | `Flutter` `Dart` |
+    | 🧠 [**Tumor Detection ML**](https://github.com/AkBePEEK/TumorDetectionMachineLearning) | Machine Learning model for brain tumor classification. |
+  `Python` `Scikit-Learn` |
+    | 🤖 [**OrangeHRM Pytest Automation**](https://github.com/AkBePEEK/orange-hrm-pytest-automation) | Test framework with Pytest & Selenium for OrangeHRM web application. | `Python` `Pytest` `Selenium` |
+    | 💬 [**Messenger**](https://github.com/AkBePEEK/Messenger) | Cross-platform real-time chat messaging app interface. | `Flutter` `Dart` |
+
+    ---
+
+    ### 📈 GitHub Stats
+
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AkBePEEK&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="AkBe GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
+    </p>
+
+    ---
+
+    ### 📫 Connect with Me
+
+    - 💼 **LinkedIn**: https://www.linkedin.com/in/berdiyar-akhbergen-b5181b301/
+    - 📧 **Email**: aberdiyar05@gmail.com
