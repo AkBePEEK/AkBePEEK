@@ -1,8 +1,7 @@
 # Hi there, I'm AkBe 👋
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=450&lines=Software+Developer;
-  React+%26+Frontend+Developer;Node.js+%26+Backend+Developer;Flutter+%26+Mobile+Developer;Python+%26+QA+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=450&lines=Software+Developer;React+%26+Frontend+Developer;Node.js+%26+Backend+Developer;Flutter+%26+Mobile+Developer;Python+%26+QA+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +11,7 @@
 - 📱 **Frontend & Mobile**: Building responsive web & mobile applications using **React, TypeScript, Flutter, & Dart**.
 - ⚙️ **Backend Development**: Designing scalable backend services with **Node.js** & **Python**.
 - 🧪 **Automation & QA**: End-to-end API & Web test automation using **Pytest, Selenium, & Postman**.
-- 🧠 **Machine Learning & Systems**: Hands-on experience with ML classification models and 3D graphics in **C++**.
+- 🎨 **Systems & Graphics**: Hands-on experience with 3D graphics rendering pipelines and core algorithms in **C++**.
 
 ---
 
@@ -45,7 +44,7 @@
 | :--- | :--- | :--- |
 | 🚚 [**TasLogistic**](https://github.com/AkBePEEK/TasLogistic) | Logistics management platform and web application. | `React` `TypeScript` |
 | 🌸 [**Flowercy**](https://github.com/AkBePEEK/Flowercy) | Flower delivery mobile app with custom UI and ordering flow. | `Flutter` `Dart` |
-| 🧠 [**Tumor Detection ML**](https://github.com/AkBePEEK/TumorDetectionMachineLearning) | Machine Learning model for brain tumor classification. | `Python` `Scikit-Learn` |
+| 🎬 [**MovieAndTVShowTrackerApp**](https://github.com/AkBePEEK/MovieAndTVShowTrackerApp) | Native Android application for tracking movies and TV shows. | `Kotlin` `Android` |
 | 🤖 [**OrangeHRM Pytest Automation**](https://github.com/AkBePEEK/orange-hrm-pytest-automation) | Test framework with Pytest & Selenium for OrangeHRM web application. | `Python` `Pytest` `Selenium` |
 | 💬 [**Messenger**](https://github.com/AkBePEEK/Messenger) | Cross-platform real-time chat messaging app interface. | `Flutter` `Dart` |
 
@@ -54,10 +53,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AkBePEEK&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="AkBe
-  GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkBePEEK&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="AkBe GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 ---
