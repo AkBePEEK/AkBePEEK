@@ -50,11 +50,15 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkBePEEK&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="AkBe GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkBePEEK&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkBePEEK&theme=tokyonight" width="48%" alt="AkBe GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkBePEEK&theme=tokyonight" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkBePEEK&theme=tokyonight" width="98%" alt="Activity Graph" />
 </p>
 
 ---
