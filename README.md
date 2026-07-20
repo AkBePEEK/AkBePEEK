@@ -1,8 +1,7 @@
- # Hi there, I'm AkBe 👋
+# Hi there, I'm AkBe 👋
 
     <p align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=450&lines=Software+Developer;
-      Flutter+%26+Mobile+Developer;TypeScript+%26+Full-Stack;Python+%26+QA+Automation" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&width=450&lines=Software+Developer; Flutter+%26+Mobile+Developer;TypeScript+%26+Full-Stack;Python+%26+QA+Automation" alt="Typing SVG" />
     </p>
 
     ---
@@ -45,7 +44,8 @@
     | 🌸 [**Flowercy**](https://github.com/AkBePEEK/Flowercy) | Flower delivery mobile app with custom UI and ordering flow. | `Flutter` `Dart` |
     | 🧠 [**Tumor Detection ML**](https://github.com/AkBePEEK/TumorDetectionMachineLearning) | Machine Learning model for brain tumor classification. |
   `Python` `Scikit-Learn` |
-    | 🤖 [**OrangeHRM Pytest Automation**](https://github.com/AkBePEEK/orange-hrm-pytest-automation) | Test framework with Pytest & Selenium for OrangeHRM web application. | `Python` `Pytest` `Selenium` |
+    | 🤖 [**OrangeHRM Pytest Automation**](https://github.com/AkBePEEK/orange-hrm-pytest-automation) | Test framework with Pytest & Selenium for
+  OrangeHRM web application. | `Python` `Pytest` `Selenium` |
     | 💬 [**Messenger**](https://github.com/AkBePEEK/Messenger) | Cross-platform real-time chat messaging app interface. | `Flutter` `Dart` |
 
     ---
@@ -61,5 +61,5 @@
 
     ### 📫 Connect with Me
 
-    - 💼 **LinkedIn**: https://www.linkedin.com/in/berdiyar-akhbergen-b5181b301/
-    - 📧 **Email**: aberdiyar05@gmail.com
+    - 💼 **LinkedIn**: [Berdiyar Akhbergen](https://www.linkedin.com/in/berdiyar-akhbergen-b5181b301/)
+    - 📧 **Email**: [aberdiyar05@gmail.com](mailto:aberdiyar05@gmail.com)
